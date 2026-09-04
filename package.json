@@ -1,0 +1,13 @@
+{
+  "name": "ken-no-ma",
+  "version": "0.1.0",
+  "private": true,
+  "description": "酔拳と詠春拳が対戦するブラウザ3D格闘ゲーム",
+  "type": "module",
+  "scripts": {
+    "test": "node test_combat.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,12 @@
+# Local dependencies and temporary files
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+
+# Local environment and private hosting configuration
+.env
+.env.*
+.openai/
+
+# dist/ contains the editable game source and is intentionally tracked.
